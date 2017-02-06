@@ -1,8 +1,0 @@
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\obj\Debug\NUnitCOMTest.csprojResolveAssemblyReference.cache
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\bin\Debug\NUnitCOMTest.dll
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\bin\Debug\NUnitCOMTest.pdb
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\bin\Debug\nunit.framework.dll
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\bin\Debug\nunit.framework.xml
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\obj\Debug\NUnitCOMTest.dll
-c:\users\nmilushev\documents\visual studio 2015\Projects\NUnitCOMTest\NUnitCOMTest\obj\Debug\NUnitCOMTest.pdb
